@@ -1,0 +1,9 @@
+.Student{
+
+    background-color: bisque;
+    margin: 10px;
+    width: fit-content;
+}
+div{
+    display: flex;
+}
